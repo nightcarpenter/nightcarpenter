@@ -1,6 +1,4 @@
-### [Моё резюме](https://drive.google.com/file/d/1tFAt6G_QvD3dw-yPI84A1nazjMxlSmt8/view?usp=sharing)
-
----
+### [Резюме](https://drive.google.com/file/d/1tFAt6G_QvD3dw-yPI84A1nazjMxlSmt8/view?usp=sharing)
 
 ### Портфолио
 
