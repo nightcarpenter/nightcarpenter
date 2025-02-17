@@ -1,4 +1,4 @@
-### [Ссылка на езюме](https://drive.google.com/file/d/1tFAt6G_QvD3dw-yPI84A1nazjMxlSmt8/view?usp=sharing)
+### [Ссылка на резюме](https://drive.google.com/file/d/1tFAt6G_QvD3dw-yPI84A1nazjMxlSmt8/view?usp=sharing)
 
 ### Портфолио:
 
