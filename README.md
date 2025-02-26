@@ -10,4 +10,3 @@
 | 4. | [Статистический анализ данных для сервиса аренды самокатов](https://github.com/nightcarpenter/ScootersStatistics) | Учебный:<br> Яндекс Практикум | Исследовательский и статистический анализ, проверки гипотез, ответы на вопросы | python, pandas, matplotlib, scipy |
 | 5. | [Разработка поисковой файловой системы](https://github.com/nightcarpenter/HomeLibrary) | Учебный:<br> Курсовая работа | Разработка поисковой системы для домашнего ПК с графическим интерфейсом, позволяющей искать файлы по ключевым словам | python, tkinter |
 
-https://github.com/nightcarpenter/TaxiTimeSeries/tree/main
